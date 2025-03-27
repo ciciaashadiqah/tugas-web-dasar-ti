@@ -1,0 +1,50 @@
+body {
+    font-family: Dosis;
+    margin: 0;
+    padding: 0;
+}
+
+.blackcenter {
+    background-color: #566850;
+    color: white;
+    text-align: center;
+}
+
+.header {
+    padding: 20px;
+    font-size: 30px;
+}
+
+.footer {
+    clear: both;
+    padding: 20px;
+}
+
+.homepage {
+    background-color: #d5eacb;
+    width: 30%;
+    height: 300px;
+    float: left;
+    color: black;
+}
+
+.main {
+    background-color: #86a07f;
+    width: 70%;
+    height: 300px;
+    float: left;
+    text-align: justify;
+}
+
+a {
+    color: #4B3A26;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+}
+
+.pad {
+    padding: 10px;
+}
